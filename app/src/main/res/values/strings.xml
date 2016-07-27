@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Desafio BeerOrCoffe</string>
+    <string name="action_settings">Configuração</string>
+
+    <!-- String Menu -->
+    <string name="menu_localizacao">Obter Localização Atual</string>
+    <string name="menu_salvar">Salvar</string>
+    <string name="menu_limpar">Limpar</string>
+    <string name="servico_nao_disponivel">Serviço não disponivel.</string>
+    <string name="lat_long_invalido">Lat / Lon inválido!</string>
+    <string name="endereco_nao_encontrado">Endereço não encontrado!</string>
+    <string name="endereco_encontrado">Endereço encontrado!</string>
+</resources>
